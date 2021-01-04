@@ -1,4 +1,4 @@
-# @author: dilsadergunn
+# @author: Dilsad Ergun Kucukkececi
 
 import random #random library for text generation process
 import re #re library for pre process of sets and post process of generated text
